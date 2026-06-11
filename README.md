@@ -38,6 +38,10 @@ Topics covered:
 - Operator-based problem solving
 - Real-world programming applications
 
+### Lab Sheet 06
+
+This lab sheet focuses on the practical application of C++ operators and expression evaluation. The exercises cover arithmetic, assignment, compound assignment, increment/decrement, relational, logical, ternary, comma, and bitwise operators while emphasizing problem-solving, comparisons, calculations, and structured output formatting.
+
 ## Author
 
 **Yohan Joel Rodrigo**  
