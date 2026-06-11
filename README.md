@@ -62,6 +62,10 @@ This lab sheet focuses on modular programming using functions in C++. The exerci
 
 This lab sheet focuses on function-based programming and return values in C++. The exercises cover function creation, parameter passing, return types, financial calculations, unit conversions, tracking systems, performance analysis, decision-making, and real-world problem-solving applications.
 
+### Lab Sheet 12
+
+This lab sheet focuses on menu-driven programming, arrays, and matrix operations in C++. The exercises cover interactive systems, input validation, searching techniques, finding maximum and minimum values, array processing using functions, matrix manipulation, matrix addition and multiplication, and transpose operations.
+
 
 ## Author
 
