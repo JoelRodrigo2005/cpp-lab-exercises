@@ -1,96 +1,186 @@
 # C++ Lab Exercises
 
-C++ programming lab exercises completed during the first semester of my BSc (Hons) Data Science & Business Analytics degree at General Sir John Kotelawala Defence University.
+A collection of C++ programming laboratory exercises completed during the first semester of the **BSc (Hons) Data Science & Business Analytics** degree at **General Sir John Kotelawala Defence University (KDU)**.
 
 ## Course
+
 **CS11021 – Programming Laboratory**
 
 ## Lab Sheets
 
 ### Lab Sheet 03
-Topics covered:
-- Console output formatting using `cout`
-- Pattern printing
-- Variables and data types
-- Arithmetic calculations
-- User input and output
-- Basic problem-solving exercises
+
+**Topics Covered**
+
+* Console output formatting using `cout`
+* Pattern printing
+* Variables and data types
+* Arithmetic calculations
+* User input and output
+* Basic problem-solving exercises
 
 ### Lab Sheet 04
-Topics covered:
-- Type casting
-- Precision formatting
-- Scientific notation
-- Mathematical calculations
-- Real-world applications
-- Input/output operations
+
+**Topics Covered**
+
+* Type casting
+* Precision formatting
+* Scientific notation
+* Mathematical calculations
+* Real-world applications
+* Input/output operations
 
 ### Lab Sheet 05
-Topics covered:
-- Data type conversions
-- Numerical formatting
-- Scientific notation
-- Performance calculations
-- Data storage unit conversions (KB, MB, GB)
-- Bitwise operations
-- Increment operators
-- Network address calculations
-- Operator-based problem solving
-- Real-world programming applications
+
+**Topics Covered**
+
+* Data type conversions
+* Numerical formatting
+* Scientific notation
+* Performance calculations
+* Data storage unit conversions (KB, MB, GB)
+* Bitwise operations
+* Increment operators
+* Network address calculations
+* Operator-based problem solving
+* Real-world programming applications
 
 ### Lab Sheet 06
 
-This lab sheet focuses on the practical application of C++ operators and expression evaluation. The exercises cover arithmetic, assignment, compound assignment, increment/decrement, relational, logical, ternary, comma, and bitwise operators while emphasizing problem-solving, comparisons, calculations, and structured output formatting.
+**Topics Covered**
+
+* Arithmetic operators
+* Assignment and compound assignment operators
+* Increment and decrement operators
+* Relational and logical operators
+* Ternary and comma operators
+* Bitwise operations
+* Expression evaluation
+* Problem-solving techniques
 
 ### Lab Sheet 07
 
-This lab sheet focuses on decision-making and conditional programming in C++. The exercises cover if-else statements, nested conditions, logical operators, switch-case structures, eligibility validation, classification systems, billing calculations, access control mechanisms, and real-world problem-solving scenarios.
+**Topics Covered**
+
+* If-else statements
+* Nested conditional structures
+* Logical operators
+* Switch-case statements
+* Eligibility validation
+* Classification systems
+* Billing calculations
+* Access control mechanisms
+* Real-world problem-solving scenarios
 
 ### Lab Sheet 08
 
-This lab sheet focuses on repetition structures and iterative problem-solving in C++. The exercises cover for loops, while loops, nested loops, pattern generation, simulations, counting techniques, data analysis, number classification, and real-world applications involving calculations, monitoring, and reporting systems.
+**Topics Covered**
+
+* For loops
+* While loops
+* Nested loops
+* Pattern generation
+* Counting techniques
+* Simulations
+* Data analysis
+* Number classification
+* Monitoring and reporting systems
 
 ### Lab Sheet 09
 
-This lab sheet focuses on iterative programming and decision-making in C++. The exercises cover while loops, do-while loops, for loops, nested conditional statements, switch-case structures, user-controlled repetition, data monitoring systems, billing calculations, classification systems, and real-world problem-solving applications.
+**Topics Covered**
+
+* While loops
+* Do-while loops
+* For loops
+* Nested conditional statements
+* Switch-case structures
+* User-controlled repetition
+* Billing systems
+* Classification systems
+* Data monitoring applications
 
 ### Lab Sheet 10
 
-This lab sheet focuses on modular programming using functions in C++. The exercises cover function creation, parameter passing, return values, loop-based monitoring systems, decision-making structures, billing calculations, security validation systems, and real-world problem-solving applications involving automation, finance, transportation, and environmental monitoring.
+**Topics Covered**
+
+* Function creation
+* Parameter passing
+* Return values
+* Loop-based monitoring systems
+* Decision-making structures
+* Billing calculations
+* Security validation systems
+* Automation and real-world applications
 
 ### Lab Sheet 11
 
-This lab sheet focuses on function-based programming and return values in C++. The exercises cover function creation, parameter passing, return types, financial calculations, unit conversions, tracking systems, performance analysis, decision-making, and real-world problem-solving applications.
+**Topics Covered**
+
+* Function creation
+* Parameter passing
+* Return types
+* Financial calculations
+* Unit conversions
+* Tracking systems
+* Performance analysis
+* Decision-making applications
 
 ### Lab Sheet 12
 
-This lab sheet focuses on menu-driven programming, arrays, and matrix operations in C++. The exercises cover interactive systems, input validation, searching techniques, finding maximum and minimum values, array processing using functions, matrix manipulation, matrix addition and multiplication, and transpose operations.
+**Topics Covered**
+
+* Menu-driven programming
+* One-dimensional arrays
+* Searching techniques
+* Maximum and minimum value identification
+* Function-based array processing
+* Matrix manipulation
+* Matrix addition and multiplication
+* Matrix transpose operations
 
 ### Lab Sheet 13
 
-This lab sheet focuses on one-dimensional and two-dimensional arrays, nested loops, and user-defined functions in C++. The exercises cover order processing systems, student activity analysis, matrix-based data storage, sales tracking, temperature monitoring, passenger management, electricity usage calculations, and attendance evaluation.
+**Topics Covered**
 
-Topics covered:
-- One-dimensional arrays
-- Two-dimensional arrays
-- Nested loops
-- User-defined functions
-- Data analysis and processing
-- Matrix representation of data
-- Total and average calculations
-- Attendance and eligibility checking
+* One-dimensional arrays
+* Two-dimensional arrays
+* Nested loops
+* User-defined functions
+* Data analysis and processing
+* Matrix representation of data
+* Total and average calculations
+* Attendance and eligibility checking
 
+### Lab Sheet 14
 
+**Topics Covered**
 
+* Matrix multiplication
+* Two-dimensional arrays
+* Revenue calculation using matrices
+* Adjacency matrices
+* Graph representation and analysis
+* Connectivity and node relationships
+* Resource flow modelling
+* Real-world applications of matrices and graphs
+
+---
 
 ## Author
 
-**Yohan Joel Rodrigo**  
+**Yohan Joel Rodrigo**
 BSc (Hons) Data Science & Business Analytics Undergraduate
 
-### Interests
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Software Development
+### Areas of Interest
+
+* Data Science
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Software Development
+
+### Repository Overview
+
+This repository contains C++ programming laboratory exercises completed as part of the **CS11021 – Programming Laboratory** module. The exercises demonstrate the development of programming fundamentals, problem-solving techniques, functions, arrays, matrices, and data processing concepts using C++.
+
