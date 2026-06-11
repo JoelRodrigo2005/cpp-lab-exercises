@@ -66,6 +66,22 @@ This lab sheet focuses on function-based programming and return values in C++. T
 
 This lab sheet focuses on menu-driven programming, arrays, and matrix operations in C++. The exercises cover interactive systems, input validation, searching techniques, finding maximum and minimum values, array processing using functions, matrix manipulation, matrix addition and multiplication, and transpose operations.
 
+### Lab Sheet 13
+
+This lab sheet focuses on one-dimensional and two-dimensional arrays, nested loops, and user-defined functions in C++. The exercises cover order processing systems, student activity analysis, matrix-based data storage, sales tracking, temperature monitoring, passenger management, electricity usage calculations, and attendance evaluation.
+
+Topics covered:
+- One-dimensional arrays
+- Two-dimensional arrays
+- Nested loops
+- User-defined functions
+- Data analysis and processing
+- Matrix representation of data
+- Total and average calculations
+- Attendance and eligibility checking
+
+
+
 
 ## Author
 
