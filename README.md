@@ -46,6 +46,10 @@ This lab sheet focuses on the practical application of C++ operators and express
 
 This lab sheet focuses on decision-making and conditional programming in C++. The exercises cover if-else statements, nested conditions, logical operators, switch-case structures, eligibility validation, classification systems, billing calculations, access control mechanisms, and real-world problem-solving scenarios.
 
+### Lab Sheet 08
+
+This lab sheet focuses on repetition structures and iterative problem-solving in C++. The exercises cover for loops, while loops, nested loops, pattern generation, simulations, counting techniques, data analysis, number classification, and real-world applications involving calculations, monitoring, and reporting systems.
+
 ## Author
 
 **Yohan Joel Rodrigo**  
