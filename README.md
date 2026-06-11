@@ -15,7 +15,16 @@ Topics covered:
 - User input and output
 - Basic problem-solving exercises
 
+### Lab Sheet 04
+Topics covered:
+- Type casting
+- Precision formatting
+- Scientific notation
+- Mathematical calculations
+- Real-world applications
+- Input/output operations
+
 ## Author
 Yohan Joel Rodrigo
-BSc (Hons) Data Science & Business Analytics Undergraduate
+BSc (Hons) Data Science & Business Analytics Undergraduate.
 Interested in Data Science, Artificial Intelligence and Analytics
