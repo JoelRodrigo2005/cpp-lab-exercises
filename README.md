@@ -50,6 +50,10 @@ This lab sheet focuses on decision-making and conditional programming in C++. Th
 
 This lab sheet focuses on repetition structures and iterative problem-solving in C++. The exercises cover for loops, while loops, nested loops, pattern generation, simulations, counting techniques, data analysis, number classification, and real-world applications involving calculations, monitoring, and reporting systems.
 
+### Lab Sheet 09
+
+This lab sheet focuses on iterative programming and decision-making in C++. The exercises cover while loops, do-while loops, for loops, nested conditional statements, switch-case structures, user-controlled repetition, data monitoring systems, billing calculations, classification systems, and real-world problem-solving applications.
+
 ## Author
 
 **Yohan Joel Rodrigo**  
