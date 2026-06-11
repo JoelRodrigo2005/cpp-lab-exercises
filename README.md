@@ -42,6 +42,10 @@ Topics covered:
 
 This lab sheet focuses on the practical application of C++ operators and expression evaluation. The exercises cover arithmetic, assignment, compound assignment, increment/decrement, relational, logical, ternary, comma, and bitwise operators while emphasizing problem-solving, comparisons, calculations, and structured output formatting.
 
+### Lab Sheet 07
+
+This lab sheet focuses on decision-making and conditional programming in C++. The exercises cover if-else statements, nested conditions, logical operators, switch-case structures, eligibility validation, classification systems, billing calculations, access control mechanisms, and real-world problem-solving scenarios.
+
 ## Author
 
 **Yohan Joel Rodrigo**  
